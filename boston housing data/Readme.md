@@ -1,4 +1,4 @@
-*Load the Boston housing data from the sklearn datasets module
+#Load the Boston housing data from the sklearn datasets module
 *Describe and summarize the data in terms of number of data points, dimensions, target, etc
 • Visualization:presentasinglegridcontainingplotsforeachfeatureagainstthetarget.Choose the appropriate axis for dependent vs. independent variables. Hint: use pyplot.tight layout function to make your grid readable
 • Divide your data into training and test sets, where the training set consists of 80% of the data points(chosenatrandom). Hint:Youmayfindnumpy.random.choiceuseful
